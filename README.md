@@ -178,12 +178,11 @@ Please adhere to this project's `code of conduct`.
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
-## dashboard admin screenshots
+### Dashboard admin screenshots 📌
 
-![App Screenshot](https://gyazo.com/4acdf5df1e218df0c08257359ac49cc4)
+![admin-summary](https://firebasestorage.googleapis.com/v0/b/proyecto-react-coderhous-192d5.appspot.com/o/admin-resumen.png?alt=media&token=25de17cc-e418-42d1-9fc4-96b24dbb2f45)
+![admin-products](https://firebasestorage.googleapis.com/v0/b/proyecto-react-coderhous-192d5.appspot.com/o/admin-productos.png?alt=media&token=a01c2074-babf-4fe6-a4d1-42891500d741)
+![admin-orders](https://firebasestorage.googleapis.com/v0/b/proyecto-react-coderhous-192d5.appspot.com/o/admin-orders.png?alt=media&token=172f4751-66cf-4533-8778-d1f8fc8f2588)
 
-![App Screenshot](https://gyazo.com/90eff555ebd086f53f603fe661dc019f)
+![admin-users](https://firebasestorage.googleapis.com/v0/b/proyecto-react-coderhous-192d5.appspot.com/o/admin-users.png?alt=media&token=a93d2f02-6557-49e3-8596-b120c73d7768)
 
-![App Screenshot](https://gyazo.com/959f4ecfe6fa9e4df22dfbd412ca6830)
-
-![App Screenshot](https://gyazo.com/3a5eb54b346b528c22e44b3685893332)
