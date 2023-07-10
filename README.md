@@ -178,6 +178,12 @@ Please adhere to this project's `code of conduct`.
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
-## Screenshots
+## dashboard admin screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://gyazo.com/4acdf5df1e218df0c08257359ac49cc4)
+
+![App Screenshot](https://gyazo.com/90eff555ebd086f53f603fe661dc019f)
+
+![App Screenshot](https://gyazo.com/959f4ecfe6fa9e4df22dfbd412ca6830)
+
+![App Screenshot](https://gyazo.com/3a5eb54b346b528c22e44b3685893332)
